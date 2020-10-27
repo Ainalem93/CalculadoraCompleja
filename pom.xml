@@ -12,7 +12,7 @@
 	<properties>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
-		<exec.mainClass>dad.JavaFX.CalculadoraCompleja.Main</exec.mainClass>
+		<exec.mainClass>dad.CalculadoraCompleja.Main</exec.mainClass>
 	</properties>
 
 	<dependencies>
